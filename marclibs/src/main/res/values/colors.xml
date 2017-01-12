@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="menu_text">#6c6c6c</color>
+
+    <!--<color name="colorPrimary">#00a0e9</color>-->
+    <!--<color name="colorPrimaryDark">#00a0e9</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="window_background">#FFFEFEFE</color>
+
+    <color name="primary_dark">#037BFF</color>
+    <color name="primary_light">#00a0e9</color>
+    <color name="aat_blue">#00a0e9</color>
+
+    <color name="default_ascv_selected_color">#0099CC</color>
+    <color name="default_ascv_unselected_color">#FFFFFF</color>
+    <color name="red">#eb676b</color>
+    <color name="blue">#488cef</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="gray">#a5aeb3</color>
+    <color name="black">#000000</color>
+
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="color_ff4631">#fe5a27</color>
+    <color name="color_999999">#999999</color>
+    <color name="item_divider">#999999</color>
+
+    <color name="app_detail_safe_normal">#999999</color>
+    <color name="app_detail_safe_warning">#ff8800</color>
+    <color name="alpha_80_black">#cc000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="sr_window_background">#fefefe</color>
+
+    <!--二维码图片选择-->
+    <color name="common_list_item_bg_pressed_color">#FFEEEEEE</color>
+    <color name="common_list_item_bg_normal_color">#FFFEFEFE</color>
+
+    <!-- Alert Dialog-->
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+
+    <color name="base_bg">#ffeeeeee</color>
+    <color name="base_msg_color">#ff999999</color>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+    <!--flowlayout的颜色-->
+    <color name="flow_background">#0299D2</color>
+
+    <!--按钮阴影效果-->
+    <color name="default_shadow_color">#88757575</color>
+    <color name="default_fill_color">#ffffff</color>
+</resources>
