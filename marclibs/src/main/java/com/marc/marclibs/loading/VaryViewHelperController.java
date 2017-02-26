@@ -100,7 +100,6 @@ public class VaryViewHelperController {
             TextView textView = (TextView) layout.findViewById(R.id.loading_msg);
             textView.setText(msg);
         }
-        layout.getBackground().setAlpha(100);
         helper.showLayout(layout);
     }
 
